@@ -1,0 +1,136 @@
+Project 1: Purchase Order Process
+
+ 
+
+Not Available
+
+ 
+
+Project 2: Poker Game Development
+
+ 
+
+Kings poker is implementation of Cubeia poker project. We have done new features implementation and maintenance task in that. We have implement new features like Waiting list implementation for game table, Tournament scheduling, Table layout changes, Server distribution license check, User profile etc. Improved game playing via changing design effectively. Implemented partially stable version of poker.
+
+ 
+
+Project 3: Supervisor – Web Services
+
+ 
+
+[Ask Bhavik for Description]
+
+ 
+
+Project 4: CMS_DISAS - Screen Recorder
+
+ 
+
+Objective: Integrate screencast-o-matic with wedubox for professors to record their computer screen (powerpoint, excel, etc), their webcam video and their audio.
+
+ 
+
+Functionality:
+
+Inside wedubox.com the professor will have an option to record screen the screen, the following is the flow:
+
+ 
+
+The professor click on “record screen”
+
+A bar with options will appear, the options are: Setup/select webcam, setup/select microphone, start capturing video, pause.
+
+A counter give the user 5 seconds to start recording (5,4,3,2,1,go), a minimized bar shows the options to pause, mute, cancel, save the video.
+
+Record up to 15 minutes video, if possible show a counter with the remaining time.
+
+When the user finished, save the video in the computer in mp4 format
+
+Start the upload of the video to wedubox.
+
+The videos should be managed as a private list for the user inside wedubox, the user should be able to browse in the current videos that he uploaded previously to wedubox.
+
+Add a watermark with wedubox logo to the mp4 video.
+
+Include as a deliverable a technical document that describe the integration between wedubox and screencast-o-matic (files, folders, procedures, etc).
+
+ 
+
+ 
+
+Project 5: ISS Proprio
+
+ 
+
+The Project goal is to develop new functionalities in existing systems, to automate processes that involve operations used by the bank to calculate the Brazilian Tax ISS.
+
+ 
+
+Requirement details:
+
+ 
+
+•             Automating process for ISS calculation;
+
+•             Automating the process used for accounting the ISS;
+
+•             Parameterizing to define rules for ISS accounting, and the validity of data included and updated to preserve historical base;
+
+•             Accounting validation, using electronic certificates used by the analyst and manager in the bank to sign the results;
+
+•             Let the field Agency (“Agência”) open in all screens where this field is in use, to allow users to change the agency on screen directly, with no need to use another screen to define parameters.
+
+•             Need to reopen the account for possible corrections in the historic data, versioning changes. (recalc and retification);
+
+•             The system “FECHALEASING” will made available informations of disponibilizará informações of leasing operations in the calculation system on contracts portfolio to calculate the ISS Proprio.
+
+ 
+
+Project 6: MPA OAS
+
+ 
+
+MLP facilitate the planning, managing and issuing of craft licensing, composite fines, port clearance permit etc. of maritime related activities in Singapore. The processing of transaction is currently performed via walk-in ticketing system. MLP will increase their productivity by replacing the current processes through e-appointment services. This allows them to estimate the number of appointments and better planning in allocating of resources. 
+
+With the advent in the Information Technology, the potential to improve the quality, safety and efficiency of transaction processing has increased. It has enabled modern technologies and inventions readily accessible which help to provide more efficiency and robustness in this kind of government activities. 
+
+TatvaSoft has emerged with Java EE solution in the form of “Online Appointment System For One Stop Document Centre (OAS)” that helps overcoming limitations and challenges of existing solutions and maximizes productivity and hospitality with the benefits of IT.
+
+ 
+
+In  order  to  get  full  advantage  of  the  current  business  system  and  manage  the  various operations related to Maritime and Port Authority, client decided to develop a web based application that helps them to maintain technical and business benefits of the e-appointment services in effective and efficient manner.
+
+“Online Appointment System For One Stop Document Centre (OAS)” has a wide range of goals and objectives out of which the prime considerations are listed below:
+
+ 
+
+·         Appointment Module - Intranet
+
+o   Booking of Appointment Function
+
+o   Cancellation of Appointment Function
+
+o   Rescheduling of Appointment Function
+
+ 
+
+·         Appointment Module - Intranet
+
+o   Check-In of Appointment Function
+
+o   Processing of Appointment Function
+
+ 
+
+·         Administrating Module - Intranet
+
+o   Administrating of Booking Period Function
+
+o   Administrating of Booking Slot Function
+
+ 
+
+·         Reporting Module - Intranet
+
+o   Generating of Appointment Report Function
+
